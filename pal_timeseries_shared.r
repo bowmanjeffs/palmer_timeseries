@@ -1,6 +1,6 @@
 ## This script is a stripped-down version of the worksheet for Bowman et al., 2016, ISMEJ.  It should contain
 ## all essential analyses and plots, though not all plots will appear exactly as they do in the
-## publication, except for the classification of flow cytometry events.
+## publication, except for the classification of flow cytometry events (see fcm_classification_shared.r)
 
 
 ## the dataset contains some experimental data that is not relevant to this analysis.
